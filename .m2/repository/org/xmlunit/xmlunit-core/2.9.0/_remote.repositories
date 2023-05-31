@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jan 02 11:27:43 COT 2023
+xmlunit-core-2.9.0-sources.jar>central=
+xmlunit-core-2.9.0.jar>central=
+xmlunit-core-2.9.0.pom>central=
