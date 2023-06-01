@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Feb 08 19:41:37 COT 2022
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1644364334065
-https\://repo.maven.apache.org/maven2/.lastUpdated=1644367297198
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-clean-plugin\:pom\:3.1.0 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer file\: http\://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/3.1.0/maven-clean-plugin-3.1.0.pom. Return code is\: 501 , ReasonPhrase\:HTTPS Required.
